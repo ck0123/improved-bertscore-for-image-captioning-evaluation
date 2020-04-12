@@ -1,0 +1,3 @@
+*.ipynb
+*.pt
+.DS_Store
